@@ -10,6 +10,7 @@ peter = FoxClass("Peter")
 tommy = DonkeyClass("Tommy")
 flappie = RabbitClass("Flappie")
 # this is a comment
+# this is another comment
 
 goofy.sound()
 mika.sound()
