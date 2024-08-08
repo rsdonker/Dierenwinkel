@@ -7,6 +7,7 @@ goofy = DogClass("Goofy")
 mika  = CatClass("Mika")
 peter = FoxClass("Peter")
 tommy = DonkeyClass("Tommy")
+# this is a comment
 
 goofy.sound()
 mika.sound()
