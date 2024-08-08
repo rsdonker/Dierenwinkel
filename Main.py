@@ -1,7 +1,7 @@
 from Dog import DogClass
 from Cat import CatClass
-bello = DogClass("Bello")
-felix = CatClass("Miko")
+felix = DogClass("Felix")
+mika  = CatClass("Mika")
 
-bello.sound()
 felix.sound()
+mika.sound()
