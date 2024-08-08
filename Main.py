@@ -3,12 +3,12 @@ from Cat    import CatClass
 from Fox    import FoxClass
 from Donkey import DonkeyClass
 
-felix = DogClass("Felix")
+goofy = DogClass("Goofy")
 mika  = CatClass("Mika")
 peter = FoxClass("Peter")
 tommy = DonkeyClass("Tommy")
 
-felix.sound()
+goofy.sound()
 mika.sound()
 peter.sound()
 tommy.sound()
